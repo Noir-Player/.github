@@ -25,3 +25,5 @@ An open-source musical projects with a different number of integrations and desi
 **Noir Player Docs** - docs for api server and a few guides for developers / users
 
 **Noir Player Spectra** - project of musical speaker, based on raspberry pi and controlled by api
+
+**Noir Player Bot** - legacy code of discord music bot with app for web interactions
