@@ -7,12 +7,17 @@
 
 </div>
 
-# Noir Player
-
+<div align="center">
+  
   ![Electron](https://img.shields.io/badge/Electron-%23160016.svg?style=for-the-badge&logo=electron&logoColor=white)
   ![NextJS](https://img.shields.io/badge/NextJS-%23E62068.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![NextUI](https://img.shields.io/badge/NextUI-%23FF7956.svg?style=for-the-badge&logo=NextUI&logoColor=black)
   ![Shadcn](https://img.shields.io/badge/shadcn-%23fffdf8?style=for-the-badge&logo=shadcnui&logoColor=black)
+  
+</div>
+
+# Noir Player
+
 
 An open-source musical projects with a different number of integrations and design approaches just for fun by persifox
 
